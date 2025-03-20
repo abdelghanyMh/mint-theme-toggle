@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Toggle Theme
+Comment=Switch between light and dark modes
+Exec=theme-toggle.sh
+Icon=preferences-desktop-theme
+Terminal=false
+Categories=Settings;Utility;
+Keywords=theme;dark;light;toggle;
